@@ -1,0 +1,44 @@
+.elementor-kit-953{--e-global-color-primary:#00C6D7;--e-global-color-secondary:#59297D;--e-global-color-text:#FFFFFF;--e-global-color-accent:#0E2134;--e-global-color-4666c54:#212134;--e-global-color-e9bbc07:#212134E6;--e-global-typography-primary-font-family:"heebo";--e-global-typography-primary-font-size:40px;--e-global-typography-primary-font-weight:400;--e-global-typography-primary-line-height:1em;--e-global-typography-secondary-font-family:"heebo";--e-global-typography-secondary-font-size:21px;--e-global-typography-secondary-font-weight:500;--e-global-typography-text-font-family:"heebo";--e-global-typography-text-font-size:15px;--e-global-typography-text-font-weight:100;--e-global-typography-accent-font-family:"heebo";--e-global-typography-accent-font-size:25px;--e-global-typography-accent-font-weight:700;--e-global-typography-accent-line-height:1.2em;color:var( --e-global-color-text );background-color:var( --e-global-color-4666c54 );}.elementor-kit-953 p{margin-bottom:0px;}.elementor-kit-953 h1{color:#F9F9F9;}.elementor-kit-953 h3{color:#F9F9F9;}.elementor-kit-953 h4{color:#F9F9F9;}.elementor-kit-953 h5{color:#F9F9F9;font-family:"Source Sans Pro", HELVETICA;font-size:20px;font-weight:600;}.elementor-kit-953 button,.elementor-kit-953 input[type="button"],.elementor-kit-953 input[type="submit"],.elementor-kit-953 .elementor-button{border-style:solid;border-width:2px 2px 2px 2px;border-radius:0px 0px 0px 0px;}.elementor-kit-953 button:hover,.elementor-kit-953 button:focus,.elementor-kit-953 input[type="button"]:hover,.elementor-kit-953 input[type="button"]:focus,.elementor-kit-953 input[type="submit"]:hover,.elementor-kit-953 input[type="submit"]:focus,.elementor-kit-953 .elementor-button:hover,.elementor-kit-953 .elementor-button:focus{border-style:solid;border-width:2px 2px 2px 2px;border-radius:0px 0px 0px 0px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;--container-default-padding-top:10px;--container-default-padding-right:10px;--container-default-padding-bottom:10px;--container-default-padding-left:10px;}.elementor-widget:not(:last-child){margin-bottom:10px;}.elementor-element{--widgets-spacing:10px;}{}h1.entry-title{display:var(--page-title-display);}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer{padding-inline-end:150px;padding-inline-start:150px;}@media(max-width:1366px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1340px;}.e-con{--container-max-width:1340px;}}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:449px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:780px;}.e-con{--container-max-width:780px;}.site-header{padding-inline-end:104px;padding-inline-start:104px;}}@media(min-width:1920px){.elementor-kit-953{--e-global-typography-primary-font-size:2.6em;--e-global-typography-secondary-font-size:1.3em;--e-global-typography-text-font-size:1.1em;--e-global-typography-accent-font-size:2.9em;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:100vw;}.e-con{--container-max-width:100vw;}}/* Start custom CSS */html, body{
+    width: 100VW;
+	overflow-x: hidden;
+}
+body::-webkit-scrollbar{
+	width:8px;
+}
+body::-webkit-scrollbar-track{
+	background:#212134;
+}
+body::-webkit-scrollbar-thumb{
+    border-radius: 20px;
+	background: #00C6D7
+}
+html, body{
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'heebo';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url(./../fonts/Outfit-Regular.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'heebo';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url(./../fonts/Outfit-Light.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'heebo';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url(./../fonts/Outfit-Bold.ttf) format('truetype');
+}
+/* End Custom Fonts CSS */
